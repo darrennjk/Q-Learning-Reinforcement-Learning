@@ -1,5 +1,6 @@
-# Balancing a Pole on a Cart
+# Balancing a Pole on a Cart using Q-learning
 ## 23S2 SC3000 Assignment 1
+This project is an implementation of reinforcement learning (RL) on the classic control problem, CartPole. The objective of the game is to balance a pole on a cart that moves along a frictionless track, using only two possible actions: move the cart left or right. The goal of the RL agent is to maximize the cumulative reward obtained over time by choosing the best action at each state. We use the Q-learning algorithm to train the agent, and evaluate its performance by measuring the total reward obtained over a certain number of episodes. The code is implemented in Python and utilizes OpenAI Gym environment for simulation. This project showcases the application of RL algorithms in solving complex control problems and demonstrates the ability of machine learning models to learn from their environment and improve their decision-making capabilities.
 
 ## Team Name: RL Enjoyers
 
