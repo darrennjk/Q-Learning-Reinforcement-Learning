@@ -1,13 +1,13 @@
 # Balancing a Pole on a Cart
 ## 23S2 SC3000 Assignment 1
----
+
 ## Team Name: RL Enjoyers
----
+
 ## Team Members
 - Clement Tan Kang Hao
 - Darren Ng Joon Kai
 - Denzyl David Peh
----
+
 ## Team Contribution
 
 #### Training the RL Agent
@@ -29,10 +29,10 @@
 
 #### Task 4: Format the Jupyter notebook
 - Writing of step-by-step instructions and explanations - Clement, Darren, Denzyl
----
+
 ## References
 - Detailed Explanation and Python Implementation of Q-Learning Algorithm in OpenAI Gym (Cart-Pole) - https://www.youtube.com/watch?v=KMjQmG5Uzis
 - Q Learning In Reinforcement Learning | Q Learning Example | Machine Learning Tutorial | Simplilearn - https://www.youtube.com/watch?v=tMnc-hhO2jE
 - Detailed Explanation and Python Implementation of the Q-Learning Algorithm with Tests in Cart Pole OpenAI Gym Environment – Reinforcement Learning Tutorial - https://aleksandarhaber.com/q-learning-in-python-with-tests-in-cart-pole-openai-gym-environment-reinforcement-learning-tutorial/
 - Sample codes from Problem Description
----
+
